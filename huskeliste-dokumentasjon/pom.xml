@@ -22,7 +22,6 @@
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java8</artifactId>
-            <version>4.3.1</version>
             <scope>test</scope>
         </dependency>
 
